@@ -1,0 +1,42 @@
+.BUM{
+font-family:fantasy;
+text-align: center;
+}
+
+body{
+    background-color:RGb(255,210,225);
+
+}
+.text{
+    text-align: center;
+    padding: 50px ;
+    font-family:fantasy
+}
+#maj{
+    text-transform: uppercase;
+    color:rgb(255, 59, 147);
+
+}
+#min{
+    color: RGB(255,105,180);
+    padding: 1eM;
+}
+button{
+    background-color: RGB(255,155,220);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    position: relative;
+    left: 40%;
+}
+#pi{
+        text-align: center;
+
+}
