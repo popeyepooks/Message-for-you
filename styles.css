@@ -20,6 +20,8 @@ body{
 #min{
     color: RGB(255,105,180);
     padding: 1eM;
+    position:relative;
+    left:40%
 }
 button{
     background-color: RGB(255,155,220);
@@ -40,3 +42,4 @@ button{
         text-align: center;
 
 }
+
