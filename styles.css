@@ -5,6 +5,9 @@ text-align: center;
 
 body{
     background-color:RGb(255,210,225);
+    align-items:centre;
+    justify-content:centre
+    min-height: 100vh;
 
 }
 .text{
@@ -43,6 +46,7 @@ button{
         text-align: center;
 
 }
+
 
 
 
