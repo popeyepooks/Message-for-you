@@ -37,12 +37,13 @@ button{
     cursor: pointer;
     border-radius: 12px;
     position: relative;
-    left: 40%;
+    right: 40%;
 }
 #pi{
         text-align: center;
 
 }
+
 
 
 
