@@ -22,7 +22,7 @@ body{
     padding: 1eM;
    tex-align:centre:
     position:relative;
-    left:30%;
+    rightt:30%;
 }
 button{
     background-color: RGB(255,155,220);
@@ -43,6 +43,7 @@ button{
         text-align: center;
 
 }
+
 
 
 
