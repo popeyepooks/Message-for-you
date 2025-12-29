@@ -96,9 +96,30 @@ color: rgb(255, 67, 205);
     text-transform: uppercase;
     text-align: center;
     color: white;
-    
+    display: block;
+    margin: 0px;
+    padding:0px;
+   font-weight: bold;
+   font-size: xx-large;
+   position: relative;
+   right: 60px;}
+#pointless{color: white;
+    text-align: center;
+    font: 1em sans-serif;
+
 }
-#pointless{
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+#fuh{
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+   height: 20px;
+   width: 80px;
+}
+input{
+    display: block;
+   position:relative ;
+   left:0%;
+   top: 5px;
+   width: 50px;
 }
