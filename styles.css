@@ -10,9 +10,17 @@ body{
 .text{
     text-align: center;
     padding: 50px ;
+    font-family:fantasy}
+.text1{
+    text-align: center;
     font-family:fantasy
 }
 #maj{
+    text-transform: uppercase;
+    color:rgb(255, 59, 147);
+
+}
+#maj1{
     text-transform: uppercase;
     color:rgb(255, 59, 147);
 
@@ -66,7 +74,31 @@ th{
     width: 25%;
     display: block;
     position: relative;
-    left: 35%;
-    
+    left: 30%;
 
+}
+#monk{
+     height: 25%;
+    width: 25%;
+    display: block;
+    position: relative;
+    left: 35%;
+
+}
+#meat{
+  
+  padding-right: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 67, 205);  
+}
+
+#madeup{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    
+}
+#pointless{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
