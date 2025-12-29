@@ -65,13 +65,11 @@ border-radius: 12px;
 
 }
 #dawg{
-    float: center;
-    align-self: center;
-    position:relative;
-left:40%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
     height: 100px;
     width: 150px;
-}
 table,  th, td{
     margin-left: auto;
     margin-right: auto;
@@ -154,4 +152,5 @@ image{
     margin-left:auto;
     margin-right:auto;
 }
+
 
