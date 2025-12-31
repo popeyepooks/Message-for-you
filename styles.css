@@ -150,7 +150,7 @@ input{
  width: 75px;
  height:30px;
 }
-footer{
+footer, main{
 margin-right:auto;
 margin-left:auto;
 height:auto;
