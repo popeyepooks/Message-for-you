@@ -152,4 +152,7 @@ input{
 }
 footer{
 margin-right:auto;
-margin-left:auto;}
+margin-left:auto;
+height:auto;
+width:auto;}
+
